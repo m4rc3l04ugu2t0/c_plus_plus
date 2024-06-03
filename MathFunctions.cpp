@@ -13,7 +13,7 @@ int main() {
     // z = abs(-3);
     // z = round(3.14);
     // z = ceil(3.14);
-    z = floor(3.99);
+    // z = floor(3.99);
 
     std::cout << z << std::endl;
 
